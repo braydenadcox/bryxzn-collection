@@ -19,7 +19,7 @@ export default function Page() {
         paddingRight: "1rem",
       }}
     >
-      {/* overlay to darken bg for readability */}
+      {}
       <div
         style={{
           position: "absolute",
@@ -38,12 +38,12 @@ export default function Page() {
             marginBottom: "1.5rem",
           }}
         >
-          The Bryxzn Collection is under construction!
+          BRYXZN
         </h1>
 
         <div style={{ maxWidth: "800px", margin: "0 auto" }}>
           <p style={{ fontSize: "1.2rem", lineHeight: "1.6" }}>
-            The website is being developed, but poster files are up for sale!
+            The Bryxzn Collection is under construction! However, poster files are up for sale!
             <br /><br />
             <strong>Price:</strong> $10 per premade file
             <br />
@@ -65,7 +65,7 @@ export default function Page() {
             If you can’t find a good payment method, we’ll work it out. You are helping me by purchasing, so I want to make it fun and easy for you! Hope you enjoy my designs!
           </p>
 
-          {/* simple centered TikTok button */}
+          {}
           <div style={{ marginTop: "2rem" }}>
             <a
               href="https://www.tiktok.com/@bryxzn.tech?lang=en"
